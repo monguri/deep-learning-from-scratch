@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "deep-learning-from-scratch", "deep-learning-from-scratch.pyproj", "{7B120AB8-341B-4A28-A262-8CEB80FA2E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B120AB8-341B-4A28-A262-8CEB80FA2E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B120AB8-341B-4A28-A262-8CEB80FA2E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDD66FD-9983-46E1-9E32-08A30AD5525A}
+	EndGlobalSection
+EndGlobal
